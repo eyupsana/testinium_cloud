@@ -10,7 +10,7 @@ Lets you choose the platform on which you want to run your test.Platforms to cho
 
 
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 **2.Select A Operating System**
 
@@ -24,7 +24,7 @@ It allows you to select the operating system, mobile device and version informat
 
 **Record Video,** allows you to take a record video of the test run.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 
 
@@ -36,4 +36,4 @@ It is the part of the code created so that you can run it in your local environm
 * Ruby
 * Node
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)

@@ -12,7 +12,7 @@ Lets you choose the platform on which you want to run your test.Platforms to cho
 
 
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 **2.Select A Operating System**
 
@@ -28,7 +28,7 @@ It allows you to select the operating system, mobile device and version informat
 
 
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 **3.Select A Mobile App**
 
@@ -42,7 +42,7 @@ If you do not have an apk file, the default application file will be selected fo
 
 
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 
 
@@ -54,4 +54,4 @@ It is the part of the code created so that you can run it in your local environm
 * Ruby
 * Node
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)

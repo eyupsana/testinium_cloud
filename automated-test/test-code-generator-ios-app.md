@@ -10,7 +10,7 @@ Lets you choose the platform on which you want to run your test.Platforms to cho
 
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 **2.Select A Operating System**
 
@@ -24,7 +24,7 @@ It allows you to select the operating system, mobile device and version informat
 
 **Record Video,** allows you to take a record video of the test run.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 **3.Select A Mobile App**
 
@@ -34,7 +34,7 @@ If you do not have an ipa file, the default application file will be selected fo
 
 **Upload IOS** click the button to install the ipa file.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 
 
@@ -48,4 +48,4 @@ It is the part of the code created so that you can run it in your local environm
 * Ruby
 * Node
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)

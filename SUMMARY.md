@@ -52,3 +52,7 @@
   * [Test Code Generator(Android App)](automated-test/test-code-generator-android-app.md)
   * [Test Code Generator(IOS App)](automated-test/test-code-generator-ios-app.md)
   * [Operation Report](automated-test/operation-report.md)
+* [Example Project](example-project/README.md)
+  * [Selenium Project](example-project/selenium-project.md)
+  * [Appium Project](example-project/appium-project.md)
+  * [Service Project](example-project/service-project.md)
